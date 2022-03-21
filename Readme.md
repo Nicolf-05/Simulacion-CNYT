@@ -30,6 +30,7 @@ La cantidad que se mueven entre ellas serán las siguientes:
 * Consideramos cada caja como un nodo del grafo, las dirección a donde se mueven las canicas son los arcos,y
 la cantidad de la misma que se mueve es el peso del arco. Por lo que el resultante del experimentado planteado es
 
+
 ![](imagenes/imagen 1.png)
 
 
@@ -45,6 +46,7 @@ la cantidad de la misma que se mueve es el peso del arco. Por lo que el resultan
 
 
 * Así mismo, este grafo se puede representar en una matriz, del caso que estamos llevando, es la siguiente:
+
 ![](imagenes/imagen 2.png)
 
 
@@ -55,6 +57,7 @@ la cantidad de la misma que se mueve es el peso del arco. Por lo que el resultan
 de dimensión igual a la cantidad de filas de la matriz en el sistema.
 
 * Este puede tener las cantidades iniciales de canicas deseada en las posiciones deseadas:
+
 
 ![](imagenes/imagen 3.png)
 
